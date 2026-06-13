@@ -47,9 +47,8 @@
 ```yaml
 who_am_i:
   name: "Hitesh Prajapati"
-  role: "Cloud Engineer | AI/ML Engineer | DevOps WorkFlow"
+  role: "Cloud Engineer | DevOps WorkFlow"
   education: "B.E. Information Technology @ LDRP Institute of Technology, Gandhinagar"
-  current_spi: "6.56 (5th Semester)"
   email: "hprajapati1606@gmail.com"
   phone: "+91 8160532079"
 ```
