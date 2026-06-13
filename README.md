@@ -102,22 +102,6 @@ I approach every problem with a **product engineering mindset** — understandin
 
 ---
 
-<div align="center">
-
-## AI / ML Expertise
-
-</div>
-
-| Domain | Proficiency | Details |
-|:---|:---|:---|
-| **MLOps & Pipeline Engineering** | Advanced | Config-driven pipeline architecture for automated data ingestion, preprocessing, and model training across CSV, Excel, JSON formats; Docker containerization for reproducible ML workflows |
-| **Data Engineering** | Intermediate | Multi-format data processing pipelines (CSV, Excel, JSON); structured data transformation and feature engineering for ML-ready datasets |
-| **Machine Learning** | Intermediate | Supervised and unsupervised learning; model training, evaluation, and deployment; config-based scalable ML workflow execution |
-| **Data Analytics** | Intermediate | Deloitte Australia Data Analytics Job Simulation certified; exploratory data analysis, statistical inference, and business intelligence reporting |
-| **Cloud AI Services** | Intermediate | AWS Lambda for serverless inference, AWS RDS for ML feature stores, S3 for data lake architecture, EC2 for training workloads |
-| **Applied AI** | Foundational | Integration of AI/ML capabilities into production web applications; building intelligent features within full-stack products |
-
----
 
 <div align="center">
 
@@ -125,21 +109,25 @@ I approach every problem with a **product engineering mindset** — understandin
 
 </div>
 
+</div>
+
 <details>
-<summary><b>Inventory Management System</b></summary>
+<summary><b>K8s Cluster GitOps Config — Enterprise CI/CD & GitOps Platform</b></summary>
 
 <br/>
 
-A full-stack web-based inventory management platform engineered for operational efficiency. Built with a **React.js** frontend and **Node.js** backend, this system provides complete CRUD operations for product and stock record management through an intuitive, structured web interface. The application integrates a robust database layer for persistent storage of product details and stock levels, enabling real-time inventory tracking and streamlined record management for warehouse and retail operations.
+An **enterprise-grade, GitOps-driven Kubernetes CI/CD deployment platform** that treats infrastructure as a living product. This repository serves as the **single source of truth** — ArgoCD continuously watches it and ensures the live AWS EKS cluster matches the declarative configurations stored in Git. Every commit is visualized, every deployment is tracked, every failure is self-healed, and every metric is observed in real-time through stunning dashboards. The platform implements a complete 8-stage CI pipeline (lint → test → SonarQube quality gate → Trivy security scan → Docker distroless build → push to ECR → update Kustomize manifests → ArgoCD sync) with progressive delivery across three environments.
+
+Built with defense-in-depth security across 5 layers — edge (AWS WAF + ALB + rate limiting), transport (TLS 1.3 + Cert-Manager + mTLS), network (private subnets + NetworkPolicies), container (distroless + non-root + read-only filesystem), and application (Helmet.js + Sealed Secrets + OPA Gatekeeper). Infrastructure is provisioned via Terraform (VPC with 3 AZs, EKS cluster with KMS encryption, ECR, IAM roles with OIDC auth). Zero-downtime deployments guaranteed with rolling updates, readiness probes, and PodDisruptionBudgets.
 
 | Aspect | Details |
 |:---|:---|
-| **Stack** | React.js, Node.js, Express, MongoDB, REST API |
-| **Scale** | Full CRUD operations, structured inventory tracking |
-| **Performance** | RESTful API with optimized query handling |
-| **Security** | Input validation, secure database integration |
-| **Impact** | Streamlined inventory operations with zero manual tracking |
-| **Repository** | [View on GitHub](https://github.com/hitesh0106) |
+| **Stack** | Kubernetes (EKS), ArgoCD, Terraform, GitHub Actions, Kustomize, Docker (Distroless), AWS (VPC, ECR, ALB, Route53) |
+| **Scale** | 3 environments (Dev/Staging/Prod), HPA 3→20 replicas, 5,000+ req/s throughput, P99 latency < 95ms |
+| **Performance** | Zero-downtime rolling updates, ~3s cold start, 85MB distroless images, auto-scaling on CPU 70% / Memory 80% |
+| **Security** | 5-layer defense-in-depth, Trivy + SonarQube gates, Sealed Secrets, non-root containers, private subnets, KMS encryption, OIDC auth |
+| **Impact** | Production-grade GitOps platform — single source of truth, self-healing, full observability (Prometheus + Grafana + Loki + Jaeger) |
+| **Repository** | [View on GitHub](https://github.com/hitesh0106/k8s-cluster-gitops-config) |
 
 </details>
 
