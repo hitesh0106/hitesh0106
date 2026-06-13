@@ -182,37 +182,6 @@ An open-source, privacy-first platform containing **12+ tools** purpose-built fo
 
 ---
 
-<div align="center">
-
-## Experience
-
-</div>
-
-**DevOps & Cloud Engineering Practitioner**
-*Self-Initiated Projects & Open Source — May 2023 - Present*
-
-Architected and deployed cloud-native applications on AWS infrastructure, implementing CI/CD pipelines with GitHub Actions for automated testing, building, and deployment workflows. Built and containerized production-grade applications using Docker, ensuring environment consistency across development, staging, and production. Designed infrastructure automation scripts and DevOps utility tools adopted by the open-source community.
-
-- Designed and deployed AWS cloud infrastructure utilizing EC2, S3, IAM, Lambda, and RDS services for production workloads
-- Built automated CI/CD pipelines via GitHub Actions with security scanning, testing, and zero-downtime deployment strategies
-- Containerized applications using Docker with optimized multi-stage builds for production deployment
-- Created and maintained 12+ open-source DevOps utility tools with zero-backend, privacy-first architecture
-
-`AWS` `Docker` `GitHub Actions` `CI/CD` `Terraform` `Linux` `Nginx`
-
----
-
-**Full-Stack Development Engineer**
-*Project-Based Engagements — Dec 2024 - Present*
-
-Engineered end-to-end web applications using React.js and Node.js with RESTful API architectures. Implemented responsive frontend interfaces with structured component hierarchies and integrated backend services with MongoDB for persistent data management. Focused on delivering production-quality code with comprehensive CRUD operations and real-time data synchronization.
-
-- Developed full-stack inventory management system with React.js frontend and Node.js/Express backend
-- Designed and implemented RESTful APIs with structured endpoint architecture and input validation
-- Integrated MongoDB database layer with optimized query handling for real-time data operations
-- Built modular, reusable component architecture following industry best practices
-
-`React.js` `Node.js` `Express` `MongoDB` `REST API` `JavaScript`
 
 ---
 
