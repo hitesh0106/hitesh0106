@@ -271,15 +271,6 @@ An open-source, privacy-first platform containing **12+ tools** purpose-built fo
 
 ---
 
-<div align="center">
-
-## GitHub Trophies
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hitesh0106&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=5"/>
-</div>
 
 ---
 
