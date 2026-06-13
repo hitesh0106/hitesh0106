@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hitesh+Prajapati;Software+Engineer+%7C+AI%2FML+Enthusiast+%7C+DevOps+Builder" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hitesh+Prajapati;Cloud+Engineer+%7C+DevOps+WorkFlow" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -47,7 +47,7 @@
 ```yaml
 who_am_i:
   name: "Hitesh Prajapati"
-  role: "Software Engineer | AI/ML Engineer | DevOps Builder"
+  role: "Cloud Engineer | AI/ML Engineer | DevOps WorkFlow"
   education: "B.E. Information Technology @ LDRP Institute of Technology, Gandhinagar"
   current_spi: "6.56 (5th Semester)"
   email: "hprajapati1606@gmail.com"
