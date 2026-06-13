@@ -3,10 +3,6 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,7 +10,7 @@ jobs:
       - name: Generate Snake Game from GitHub Contribution Graph
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: hitesh0106
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
