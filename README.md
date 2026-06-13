@@ -210,9 +210,6 @@ An open-source, privacy-first platform containing **12+ tools** purpose-built fo
 
 <img src="https://img.shields.io/badge/NPTEL-Coursework_Completed-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1a0533"/>
 
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking_Fundamentals-049FD9?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a0533"/>
 
 ---
 
