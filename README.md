@@ -210,32 +210,6 @@ An open-source, privacy-first platform containing **12+ tools** purpose-built fo
 
 <img src="https://img.shields.io/badge/NPTEL-Coursework_Completed-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1a0533"/>
 
-
----
-
-<div align="center">
-
-## Coding Profiles
-
-</div>
-
-<div align="center">
-
-<a href="https://leetcode.com/hitesh0106/">
-  <img src="https://img.shields.io/badge/LeetCode-hitesh0106-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0533"/>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/hitesh0106/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-hitesh0106-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0533"/>
-</a>
-<a href="https://www.hackerrank.com/hitesh0106/">
-  <img src="https://img.shields.io/badge/HackerRank-hitesh0106-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a0533"/>
-</a>
-<a href="https://www.codechef.com/hitesh0106/">
-  <img src="https://img.shields.io/badge/CodeChef-hitesh0106-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a0533"/>
-</a>
-
-</div>
-
 ---
 
 <div align="center">
@@ -252,9 +226,6 @@ An open-source, privacy-first platform containing **12+ tools** purpose-built fo
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh0106&layout=compact&theme=github_dark&hide_border=true&bg_color=1a0533&title_color=A78BFA&text_color=C4B5FD"/>
 </div>
-
----
-
 
 ---
 
