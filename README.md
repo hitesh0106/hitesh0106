@@ -24,9 +24,6 @@
 <a href="mailto:hprajapati1606@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d1b69"/>
 </a>
-<a href="https://github.com/hitesh0106">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2d1b69"/>
-</a>
 
 <br/>
 
